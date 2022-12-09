@@ -9,3 +9,8 @@ To run the code properly, follow the numerical order included in the file name:
 0. Data Importing and Cleaning.ipynb
 1. Data Exploration and Formatting.ipynb
 2. Anomaly Detection.ipynb
+
+
+## Presentation Materials
+
+To view the presentation slides used for the project submission, view `Slides.pdf`.
