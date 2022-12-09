@@ -13,4 +13,4 @@ To run the code properly, follow the numerical order included in the file name:
 
 ## Presentation Materials
 
-To view the presentation slides used for the project submission, view `Slides.pdf`.
+To view the presentation slides used for the project submission, view `Slides.pdf`. To view the one-page executive summary describing the project, view `Executive Summary.pdf`. 
